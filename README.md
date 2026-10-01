@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-# React + Vite
+# Digital Wallet Frontend
+<p>This is the frontend of the digital wallet backend</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# digital_wallet_frontend
-this is the frontend of the digital wallet i just published
->>>>>>> 2fd1bcab7194e04d307af26d501a018d0a5bcd6b
+### Pages
+1. Login
+2. Registration
+3. Dashboard
+4. Transaction History
+5. Transaction Detial 
+6. Add Fund
+7. Send Fund
